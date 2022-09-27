@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is my blog for UX Research methods.
+This is my blog for UX Research thoughts.
 
 
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about my previous design projects and some of my research projects before 2020 can be found in [design work portfolio](https://wangdazhu.com/). Feel free to reach out to me through email wz334@cornell.edu.
